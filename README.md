@@ -114,19 +114,19 @@
       </p>
       <br>
       <a href="https://www.instagram.com/taabannn/" target="_blank">
-      <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+      <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/30/22C3E6/instagram-new.png" />
       </a> &nbsp;&nbsp;
       <a href="mailto:taabansoleymani@gmail.com" >
-      <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-filled/50/22C3E6/gmail.png" />
       </a> &nbsp;&nbsp;
       <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
-      <img align="center" alt="Taban Soleymani | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
+      <img align="center" alt="Taban Soleymani | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/30/22C3E6/skype.png" />
       </a> &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/TabanSoleymani/" >
-      <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+      <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-filled/50/22C3E6/linkedin-circled--v1.png" />
       </a> &nbsp;&nbsp;
       <a href="https://www.pinterest.com/tabansly78/" >
-      <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/pinterest.png" />
+      <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/30/22C3E6/pinterest.png" />
       </a> &nbsp;&nbsp;
       <br>
     </div>
@@ -138,4 +138,3 @@
 Taabannn/Taabannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
