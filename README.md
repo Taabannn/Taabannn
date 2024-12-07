@@ -30,7 +30,7 @@
         </p>
       </blockquote>
        <ul>
-        <li>🎓 &nbsp; M.Sc of Electrical Engineering - Communication Networks at <a href="https://ut.ac.ir/en">UT</a></li>
+        <li>🎓 &nbsp; M.Sc of Electrical Engineering - Communication at <a href="https://ut.ac.ir/en">UT</a></li>
         <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
         <li>👩‍💻 &nbsp; Back-end Developer </li>
         <li>🤔 &nbsp; Interested in Communication Networks and Machine Learning</li>
