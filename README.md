@@ -5,7 +5,7 @@
 <!---
 <p align="center">
   <a href="https://github.com/Taabannn">
-    <kbd><img height="200em" width="200em" src="images/me.svg" alt="me"/></kbd>
+    <kbd><img height="200em" width="200em" src="me.svg" alt="me"/></kbd>
   </a>
 </p>
 --->
@@ -38,7 +38,7 @@
     <td width="45%">
      <p align="center">
       <a href="https://github.com/Taabannn">
-       <img src="images/java-python-developer.png"/>
+       <img src="java-python-developer.png"/>
       </a>
      </p>
     </td>
