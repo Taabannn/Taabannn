@@ -20,7 +20,9 @@
           <br>
           IoT Network Simulator Based on MQTT Protocol"), and my 
           <br>
-          research is focused on edge-caching in IoT networks. 
+          research is focused on reinforcement learning-based
+          <br>
+          edge-caching in IoV networks. 
           <br>
           Currently, learning python, and here I share my hands-on  
           <br>
@@ -28,10 +30,10 @@
         </p>
       </blockquote>
        <ul>
+        <li>🎓 &nbsp; M.Sc of Electrical Engineering - Communication Networks at <a href="https://ut.ac.ir/en">UT</a></li>
         <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>👩‍💻 &nbsp; Junior Java Back-end Developer </li>
-        <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
+        <li>👩‍💻 &nbsp; Back-end Developer </li>
+        <li>🤔 &nbsp; Interested in Communication Networks and Machine Learning</li>
        </ul>
        <br>
     </td>
