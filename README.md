@@ -5,6 +5,7 @@
 <!---
 
 --->
+<br>
 <table align="center">
   <tr>
     <td width="55%">
@@ -21,6 +22,7 @@
     </td>
   </tr>
 </table>
+<br>
 
 <h2> 💻 &nbsp;About Me </h2>
 <br>
