@@ -31,14 +31,14 @@
     I majored in electrical engineering (Thesis Title: "Designing
     IoT Network Simulator Based on MQTT Protocol"), and my 
     m.sc. research is focused on reinforcement learning-based
-    edge-caching in IoV networks. 
-    Here I share my hands-on  
+    edge caching strategies in IoV networks. 
+    Here, I share my hands-on  
     and course project repositories.
   </p>
 </blockquote>
  <ul>
-  <li>🎓 &nbsp; M.Sc in Electrical Engineering - Communication Networks at <a href="https://ut.ac.ir/en">UT</a></li>
-  <li>🎓 &nbsp; B.Sc in Electrical Engineering - Communication at <a href="https://ut.ac.ir/en">UT</a></li>
+  <li>🎓 &nbsp; M.Sc in Electrical Engineering - Communication Networks at <a href="https://ut.ac.ir/en">University of Tehran</a></li>
+  <li>🎓 &nbsp; B.Sc in Electrical Engineering - Communication at <a href="https://ut.ac.ir/en">University of Tehran</a></li>
   <li>👩‍💻 &nbsp; Back-end Developer </li>
   <li>🤔 &nbsp; Interested in Communication Networks and Machine Learning</li>
  </ul>
@@ -46,7 +46,7 @@
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <table align="center">
   <tr>
-    <td width="65%">
+    <td width="62%">
       <p align="center">
         <br>
         <ul>
@@ -107,7 +107,7 @@
         </ul>
       </p>
     </td>
-    <td width="35%">
+    <td width="38%">
       <p align="center">
         <br>
         <a href="https://github.com/Taabannn">
