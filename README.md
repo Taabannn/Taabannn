@@ -55,8 +55,6 @@
             <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
             <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
             <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-            <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
-            <img src="https://img.shields.io/badge/-LaTEX-05122A?style=flat&logo=latex"/>
           </li>
           <li>
             <img src="https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia"/>
@@ -88,6 +86,13 @@
             <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
           </li>
           <li>
+            <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
+            <img src="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq"/>
+          </li>
+          <li>
+            <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/>
+          </li>
+          <li>
             <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
             <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm"/>
             <img src="https://img.shields.io/badge/-CLion-05122A?style=flat&logo=clion"/>
@@ -96,11 +101,8 @@
             <img src="https://img.shields.io/badge/-Google Colab-05122A?style=flat&logo=googlecolab"/>
           </li>
           <li>
-            <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
-            <img src="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq"/>
-          </li>
-          <li>
-            <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/>
+            <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
+            <img src="https://img.shields.io/badge/-LaTEX-05122A?style=flat&logo=latex"/>
           </li>
         </ul>
       </p>
