@@ -27,20 +27,11 @@
 <h2> 💻 &nbsp;About Me </h2>
 <br>
 <blockquote>
-  <p> 
-    I majored in electrical engineering (Thesis Title: "Designing
-    IoT Network Simulator Based on MQTT Protocol"), and my 
-    m.sc. research is focused on reinforcement learning-based
-    edge caching strategies in IoV networks. 
-    Here, I share my hands-on  
-    and course project repositories.
-  </p>
+  I am an independent researcher 
 </blockquote>
  <ul>
-  <li>🎓 &nbsp; M.Sc in Electrical Engineering - Communication Networks at <a href="https://ut.ac.ir/en">University of Tehran</a></li>
-  <li>🎓 &nbsp; B.Sc in Electrical Engineering - Communication at <a href="https://ut.ac.ir/en">University of Tehran</a></li>
-  <li>👩‍💻 &nbsp; Back-end Developer </li>
-  <li>🤔 &nbsp; Interested in Communication Networks and Machine Learning</li>
+  <li>🎓 &nbsp; M.Sc in Electrical Engineering at <a href="https://ut.ac.ir/en">University of Tehran</a></li>
+  <li>🎓 &nbsp; B.Sc in Electrical Engineering at <a href="https://ut.ac.ir/en">University of Tehran</a></li>
  </ul>
  <br>
 <h2> 🛠 &nbsp;Tech Stack</h2>
@@ -64,7 +55,6 @@
           </li>
           <li>
             <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
-            <img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse"/>
             <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>
             <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
           </li>
@@ -76,21 +66,8 @@
             <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
           </li>
           <li>
-            <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
-            <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
-            <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
-          </li>
-          <li>
             <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
             <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-            <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
-          </li>
-          <li>
-            <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
-            <img src="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq"/>
-          </li>
-          <li>
-            <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/>
           </li>
           <li>
             <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
