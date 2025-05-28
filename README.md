@@ -24,30 +24,24 @@
 </table>
 <br>
 
-<h2> 💻 &nbsp;About Me </h2>
-<br>
-<blockquote>
-  I am an independent researcher 
-</blockquote>
- <ul>
-  <li>🎓 &nbsp; M.Sc in Electrical Engineering at <a href="https://ut.ac.ir/en">University of Tehran</a></li>
-  <li>🎓 &nbsp; B.Sc in Electrical Engineering at <a href="https://ut.ac.ir/en">University of Tehran</a></li>
- </ul>
- <br>
-<h2> 🛠 &nbsp;Tech Stack</h2>
+
 <table align="center">
   <tr>
-    <td width="62%">
+    <td width="58%">
       <p align="center">
-        <br>
+        <h2> 💻 &nbsp;About Me </h2>
+        </blockquote>
+         <ul>
+          <li>🎓 &nbsp; M.Sc in Electrical Engineering at <a href="https://ut.ac.ir/en">University of Tehran</a></li>
+          <li>🎓 &nbsp; B.Sc in Electrical Engineering at <a href="https://ut.ac.ir/en">University of Tehran</a></li>
+         </ul>
+        <h2> 🛠 &nbsp;Tech Stack</h2>
         <ul>
           <li>
             <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
             <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
             <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
             <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-          </li>
-          <li>
             <img src="https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia"/>
             <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"/>
             <img src="https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab"/>
@@ -84,7 +78,7 @@
         </ul>
       </p>
     </td>
-    <td width="38%">
+    <td width="42%">
       <p align="center">
         <br>
         <a href="https://github.com/Taabannn">
