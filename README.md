@@ -3,8 +3,6 @@
 ## I'm Taban Soleymani
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
 <!---
-
---->
 <br>
 <table align="center">
   <tr>
@@ -23,11 +21,15 @@
   </tr>
 </table>
 <br>
+--->
 
+<p align="center">
+  <img height="200em" position="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+</p>
 
 <table align="center">
   <tr>
-    <td width="58%">
+    <td width="55%">
       <p align="center">
         <h2> 💻 &nbsp;About Me </h2>
         </blockquote>
@@ -49,6 +51,7 @@
           </li>
           <li>
             <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
+            <img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse"/>
             <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>
             <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
           </li>
@@ -60,8 +63,37 @@
             <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
           </li>
           <li>
+            <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/>
+            <img src="https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu"/>
+          </li>
+          <li>
+            <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
+            <img src="https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible"/>
+            <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes"/>
+          </li>
+          <li>
+            <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql"/>
+            <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql"/>
+            <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
+            <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis"/>
+          </li>
+          <li>
+            <img src="https://img.shields.io/badge/-Ceph-05122A?style=flat&logo=ceph"/>
+            <img src="https://img.shields.io/badge/-MinIO-05122A?style=flat&logo=minio"/>
+          </li>
+          <li>
+            <img src="https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana"/>
+            <img src="https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus"/>
+          </li>
+          <li>
+            <img src="https://img.shields.io/badge/-Rabbit MQ-05122A?style=flat&logo=rabbitmq"/>
+          </li>
+          <li>
             <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
             <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
+            <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
+            <img src="https://img.shields.io/badge/-Gitea-05122A?style=flat&logo=gitea"/>
+            <img src="https://img.shields.io/badge/-Gitee-05122A?style=flat&logo=gitee"/>
           </li>
           <li>
             <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
@@ -78,7 +110,7 @@
         </ul>
       </p>
     </td>
-    <td width="42%">
+    <td width="45%">
       <p align="center">
         <br>
         <a href="https://github.com/Taabannn">
