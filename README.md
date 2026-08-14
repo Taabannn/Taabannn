@@ -29,7 +29,7 @@
 
 <table align="center">
   <tr>
-    <td width="55%">
+    <td width="58%">
       <p align="center">
         <h2> 💻 &nbsp;About Me </h2>
         </blockquote>
@@ -121,7 +121,7 @@
         </ul>
       </p>
     </td>
-    <td width="45%">
+    <td width="42%">
       <p align="center">
         <br>
         <a href="https://github.com/Taabannn">
