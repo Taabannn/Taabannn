@@ -84,12 +84,20 @@
           <li>
             <img src="https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana"/>
             <img src="https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus"/>
+            <img src="https://img.shields.io/badge/-Zabbix-05122A?style=flat&logo=zabbix"/>
           </li>
           <li>
             <img src="https://img.shields.io/badge/-Rabbit MQ-05122A?style=flat&logo=rabbitmq"/>
           </li>
           <li>
             <img src="https://img.shields.io/badge/-Open Stack-05122A?style=flat&logo=openstack"/>
+          </li>
+          <li>
+            <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform"/>
+          </li>
+           <li>
+            <img src="https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch"/>
+            <img src="https://img.shields.io/badge/-Scikitlearn-05122A?style=flat&logo=scikitlearn"/>
           </li>
           <li>
             <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
