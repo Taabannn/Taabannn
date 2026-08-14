@@ -22,7 +22,13 @@
 </table>
 <br>
 --->
-
+<h2> 💻 &nbsp;About Me </h2>
+        </blockquote>
+         <ul>
+          <li>🎓 &nbsp; M.Sc in Electrical Engineering at <a href="https://ut.ac.ir/en">University of Tehran</a></li>
+          <li>🎓 &nbsp; B.Sc in Electrical Engineering at <a href="https://ut.ac.ir/en">University of Tehran</a></li>
+         </ul>
+         
 <p align="center">
   <img height="200em" position="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
 </p>
@@ -31,12 +37,6 @@
   <tr>
     <td width="52%">
       <p align="center">
-        <h2> 💻 &nbsp;About Me </h2>
-        </blockquote>
-         <ul>
-          <li>🎓 &nbsp; M.Sc in Electrical Engineering at <a href="https://ut.ac.ir/en">University of Tehran</a></li>
-          <li>🎓 &nbsp; B.Sc in Electrical Engineering at <a href="https://ut.ac.ir/en">University of Tehran</a></li>
-         </ul>
         <h2> 🛠 &nbsp;Tech Stack</h2>
         <ul>
           <li>
