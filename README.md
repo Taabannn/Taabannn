@@ -33,11 +33,11 @@
   <img height="200em" position="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
 </p>
 
+<h2> 🛠 &nbsp;Tech Stack</h2>
 <table align="center">
   <tr>
     <td width="52%">
       <p align="center">
-        <h2> 🛠 &nbsp;Tech Stack</h2>
         <ul>
           <li>
             <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
