@@ -89,6 +89,9 @@
             <img src="https://img.shields.io/badge/-Rabbit MQ-05122A?style=flat&logo=rabbitmq"/>
           </li>
           <li>
+            <img src="https://img.shields.io/badge/-Open Stack-05122A?style=flat&logo=openstack"/>
+          </li>
+          <li>
             <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
             <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
             <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
